@@ -1,3 +1,4 @@
 body{
     background: red linear-gradient(45deg, black, transparent);
+    color: black
 }
